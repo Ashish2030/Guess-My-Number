@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/github/issues-pr/ashish2030/Guess-My-Number?style=flat-square" alt="Corona-Tracker"/>
 </a>
   </p>
-<p align="center"><img src="https://github.com/Ashish2030/Guess-My-Number/blob/main/Video/Video.gif"></p>
+<p align="center"><img src="https://github.com/Ashish2030/Guess-My-Number/blob/master/videos/video.gif"></p>
 <p align="center">
     <a href="https://ashish2030.github.io/Guess-My-Number/" target="blank">View Demo</a>
     ·
