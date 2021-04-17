@@ -18,7 +18,7 @@
   </p>
 <p align="center"><img src="https://github.com/Ashish2030/Guess-My-Number/blob/master/videos/video.gif"></p>
 <p align="center">
-    <a href="https://ashish2030.github.io/Corona-Tracker/index.html" target="blank">View Demo</a>
+    <a href="https://ashish2030.github.io/Guess-My-Number/Guess_my_Number.html" target="blank">View Demo</a>
     ·
     <a href="https://github.com/ashish2030/Guess-My-Number/issues/new/choose">Report Bug</a>
     ·
