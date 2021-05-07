@@ -16,7 +16,14 @@
 <img src="https://img.shields.io/github/issues-pr/ashish2030/Guess-My-Number?style=flat-square" alt="Corona-Tracker"/>
 </a>
   </p>
-<p align="center"><img src="https://github.com/Ashish2030/Guess-My-Number/blob/master/videos/video.gif"></p>
+  
+  [![GitHub last commit](https://img.shields.io/github/last-commit/ashish2030/Guess-My-Number)](https://github.com/ashish2030/Guess-My-Number/commits/master)
+[![GitHub repo size](https://img.shields.io/github/repo-size/ashish2030/Guess-My-Number)](https://github.com/ashish2030/Guess-My-Number/archive/master.zip)
+ 
+  
+https://user-images.githubusercontent.com/61516051/117416898-74a58a00-af37-11eb-8bc1-a63ff20ca38a.mp4
+
+
 <p align="center">
     <a href="https://ashish2030.github.io/Guess-My-Number/Guess_my_Number.html" target="blank">View Demo</a>
     ·
